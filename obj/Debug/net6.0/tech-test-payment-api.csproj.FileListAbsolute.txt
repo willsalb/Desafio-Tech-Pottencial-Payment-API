@@ -1,0 +1,7 @@
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.AssemblyReference.cache
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfoInputs.cache
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.AssemblyInfo.cs
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.csproj.CoreCompileInputs.cache
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\will ball\Desktop\Coding\C#\Projetos\tech-test-payment-api\obj\Debug\net6.0\tech-test-payment-api.MvcApplicationPartsAssemblyInfo.cache
